@@ -1,1 +1,2 @@
 This is a b text
+And this is new line from fork
